@@ -1,2 +1,2 @@
 # mybot
-telegram bot, lib aiogram? on webhook
+telegram bot, lib aiogram, on webhook
